@@ -19,6 +19,11 @@ body{
     background-position: center;
     background-attachment: fixed;
 }
+
+#element{
+    color: #ff004f;
+    font-size: 30px;
+}
 .container{
     padding: 10px 10%;
 }
